@@ -30,7 +30,6 @@
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
@@ -274,18 +273,6 @@ Contributions make the open-source community an amazing place to learn, inspire,
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 📧 Contact
-
-**Ratish Anand**
-
-- GitHub: [@ratishanand](https://github.com/ratishanand)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
-
-**Project Link:** [https://github.com/ratishanand/Netflix-Data-Analysis](https://github.com/ratishanand/Netflix-Data-Analysis)
 
 ---
 
